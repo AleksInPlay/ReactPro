@@ -1,0 +1,11 @@
+.profile-card-container {
+display: flex;
+justify-content: center;
+gap: 20px;
+width: 100%;
+margin-top: 40px;
+}
+/*obiortka dlia komponenta*/
+.profile-card-control {
+    margin: 50px;
+}
